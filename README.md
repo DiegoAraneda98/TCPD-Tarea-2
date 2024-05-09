@@ -17,6 +17,7 @@
 * Para la instalación y uso de estas librerias es necesario colocar el siguiente código en la terminal de ***Visual Studio Code***:
  ```
  pip install numpy pandas matplotlib
+ pip install requests
  ```
  
 
