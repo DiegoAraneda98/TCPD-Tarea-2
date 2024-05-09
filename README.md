@@ -23,8 +23,7 @@
 ## Ejecución del programa.
 
 * Para ejecutar el programa, primero es necesario tener listo el entorno en el cual se ejecutará en nuestro caso con ***Visual Studio Code*** a través de ***Jupyter***.
-* Para el correcto funcionamiento del programa es necesario seguir el paso a paso del archivo ***tarea_1.ipynb***, como se ve en la siguiente imagen.
-![link de prueba](img/tpcd.png)
+* Para el correcto funcionamiento del programa se puede presionar el boton ***Ejecutar todo*** el cual compilara todas las celdad correspondientes. En caso de querer ver con mas detalle cada paso solo es necesario seguir la "Historia" que cuenta el archivo ***tarea2.ipynb*** ejecutando celda por celda y viendo su correspiente explicación.
 
 
 
