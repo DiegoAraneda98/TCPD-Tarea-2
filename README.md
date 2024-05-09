@@ -2,7 +2,7 @@
 
 ## Tarea 2 - Taller de Python para Ciencia de Datos
 
-### Desarrollar una aplicación en Jupyter Notebook que muestre una historia del proceso de preparación y visualización de datos para su posterior análisis, utilizando las herramientas que provee el lenguaje de programación Python a través de las bibliotecas vistas en clases (Numpy, Pandas y Matplotlib)ones:
+### Desarrollar una aplicación en Jupyter Notebook que muestre una historia del proceso de preparación y visualización de datos para su posterior análisis, utilizando las herramientas que provee el lenguaje de programación Python a través de las bibliotecas vistas en clases (Numpy, Pandas y Matplotlib):
 
 ## Programas utilizados 
 
